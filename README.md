@@ -1,1 +1,11 @@
 # ELEC
+![](./IMAGES/f01.jpg)
+![](./IMAGES/f02.jpg)
+![](./IMAGES/f03.jpg)
+![](./IMAGES/f04.jpg)
+![](./IMAGES/f05.jpg)
+![](./IMAGES/f06.jpg)
+![](./IMAGES/g01.jpg)
+![](./IMAGES/g02.jpg)
+![](./IMAGES/g03.jpg)
+![](./IMAGES/g04.jpg)
